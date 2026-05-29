@@ -5,7 +5,7 @@ Archivos completos para el Proyecto final de la materia Proyecto I impartida por
 ## Descripción del Modelo
 Este proyecto es una simulación basada en agentes desarrollada en **NetLogo** que modela el ciclo de vida de las tendencias de moda bajo condiciones de hiperconsumismo y *fast fashion*. 
 
-El modelo simula una sociedad espacialmente distribuida en un látice bidimensional, donde 961 agentes interactúan estrictamente con su vecindad de Moore (sus 8 vecinos directos). El objetivo principal es observar cómo interactúan dos fuerzas opuestas:
+El modelo simula una sociedad espacialmente distribuida en un látice bidimensional, donde 1089 agentes interactúan estrictamente con su vecindad de Moore (sus 8 vecinos directos). El objetivo principal es observar cómo interactúan dos fuerzas opuestas:
 1. **La influencia externa (Industria):** El bombardeo de tendencias globales dictadas por las marcas.
 2. **El contagio local:** La influencia social directa entre vecinos.
 
